@@ -98,6 +98,4 @@ Matriculation (Class X)
 * 🗣 English
 * 🗣 Hindi
 
----
 
-If you want, I can help convert this to Markdown or a styled PDF with icons as well! Would you like that?
