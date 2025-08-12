@@ -39,8 +39,8 @@ Matriculation (Class X)
 
 **💬 Real-Time Chat Application** (Self)
 
-* 🎨 Created responsive frontend using HTML & CSS for desktop, tablet, mobile.
-* 🔄 Enabled real-time communication with Socket.io.
+* 🎨 A real-time chat bot application built using the MERN Stack (MongoDB, Express.js, React.js, Node.js) with Socket.IO for instant communication. 
+* 🔄 The bot can send automated replies, handle multiple users, and provide a smooth chat experience.
 
 ---
 
