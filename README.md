@@ -10,7 +10,7 @@
 
 **🎓 GIFT Autonomous College** — Bachelor of Technology (BTech) in Computer Science and Engineering
 🗓 Nov 2022 – Jun 2026
-📊 CGPA: 8/10
+📊 CGPA: 8/10(ongoing)
 
 **🏫 Inter Astariya Praveshika School, Shakurabad**
 Senior Secondary (Class XII)
