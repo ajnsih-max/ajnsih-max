@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Ajnish Kumar 👋</h1>
 
-<h3 align="center">Full Stack Developer (MERN) | Final Year CS Student | Building things that scale</h3>
+<h3 align="center">Full Stack Developer | Final Year CS Student | Building things that scale</h3>
 
 <p align="center">
   <a href="mailto:ajnish2022@gift.edu.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
