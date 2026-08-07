@@ -19,7 +19,7 @@
 - ⭐ Shortlisted for **Google Student Ambassador Program 2026**
 - 🌱 Currently deepening skills in **.NET / C#, ASP.NET Core Web API, Clean Architecture, and SQL Server**
 - 💡 Background in Full Stack (CTTC Bhubaneswar) and Embedded Systems (SDI Bhubaneswar) internships
-- 📫 Reach me at **ajnish2022@gift.edu.in**
+- 📫 Reach me at **ajnishk4@gmail.com**
 
 ---
 
@@ -70,8 +70,9 @@
 | **Airbnb Clone** | Full-stack listing & booking app with real-time features, Stripe payments, cloud storage, microservices | MERN, Passport.js, Stripe, MongoDB Atlas |
 | **Food Delivery Management System** | Order and delivery tracking system with live status updates and secure auth | MERN, Tailwind CSS, Stripe, AWS |
 | **Real-Time Chat App** | Instant messaging app with automated bot replies and multi-user support | MERN, Socket.IO |
+| **Employee Management System** | CRUD-based management app with Clean Architecture, layered repository pattern, and Swagger-documented REST endpoints | ASP.NET Core Web API, C#, SQL Server, Clean Architecture, Swagger UI |
+| **Company Web Platform** *(ASP OL Media)* | Production company website built and maintained using Clean Architecture patterns, RESTful APIs, and Swagger-documented endpoints | ASP.NET Core Web API, C#, SQL Server, Swagger UI |
 
----
 
 ### 🎓 Education
 
