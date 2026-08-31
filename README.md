@@ -1,78 +1,91 @@
-<h1 align="center">Hi there, I'm Ajnish Kumar 👋</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,18,20&height=180&section=header&text=Hi%20there,%20I'm%20Ajnish%20Kumar%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn" width="100%" />
 
-<h3 align="center">Full Stack Developer | Final Year CS Student | Building things that scale</h3>
+  <h3>🚀 Full Stack Developer | Final Year CS Student | Scalable Systems Builder</h3>
 
-<p align="center">
-  <a href="mailto:ajnishk4@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/ajnish-kumar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://leetcode.com/ajnish-kumar"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-  <img src="https://komarev.com/ghpvc/?username=ajnsih-max&style=for-the-badge&color=blueviolet" alt="Profile views" />
-</p>
-
----
-
-### 🚀 About Me
-
-- 🎓 Final-year **B.Tech CSE** student at GIFT Autonomous College, Bhubaneswar (CGPA 8.0, graduating 2026)
-- 💼 Currently working as **Junior Software Developer @ ASP OL Media**, building and maintaining a production company website on the **MERN stack**
-- 🥈 **Runner-Up, IIT Bhubaneswar Hackathon**
-- ⭐ Shortlisted for **Google Student Ambassador Program 2026**
-- 🌱 Currently deepening skills in **.NET / C#, ASP.NET Core Web API, Clean Architecture, and SQL Server**
-- 💡 Background in Full Stack (CTTC Bhubaneswar) and Embedded Systems (SDI Bhubaneswar) internships
-- 📫 Reach me at **ajnishk4@gmail.com**
+  <p>
+    <a href="mailto:ajnishk4@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+    <a href="https://linkedin.com/in/ajnish-kumar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://leetcode.com/ajnish-kumar"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+    <img src="https://komarev.com/ghpvc/?username=ajnsih-max&style=for-the-badge&color=7952B3" alt="Profile views" />
+  </p>
+</div>
 
 ---
 
-### 🛠 Tech Stack
+### 🌟 About Me
 
-**Languages**
-<p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
-</p>
-
-**Web / Frameworks**
-<p>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-</p>
-
-**Databases & Cloud**
-<p>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
-</p>
-
-**Tools**
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white" />
-<img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white" />
-</p>
+- 🎓 **B.Tech in Computer Science & Engineering** at GIFT Autonomous College, Bhubaneswar *(CGPA: 8.0 · 2022–2026)*
+- 💼 **Junior Software Developer @ ASP OL Media** — Architecting full-stack web applications, secure REST APIs, and microservices
+- 🥈 **Runner-Up** — IIT Bhubaneswar Hackathon
+- ⭐ **Shortlisted Candidate** — Google Student Ambassador Program 2026
+- 🛠️ Specializing in **Full-Stack JavaScript (MERN / Angular)** & **Enterprise Backends (.NET Core, C#, Clean Architecture, SQL Server)**
+- 🎯 Always open to **Full Stack Developer / SDE** opportunities!
 
 ---
+
+🛠️ Tech Stack
+💻 Programming Languages
+
+<p> <img src="https://skillicons.dev/icons?i=ts,js,cs,java,python" /> </p>
+
+🎨 Frontend Development
+
+<p> <img src="https://skillicons.dev/icons?i=angular,react,html,css,bootstrap,tailwind" /> </p>
+
+⚙️ Backend Development
+
+<p> <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet" /> </p>
+
+<p>
+
+<img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/> <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
+
+</p>
+
+🗄️ Databases
+
+<p> <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" /> </p>
+
+<p>
+
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+
+</p>
+
+☁️ Cloud & Deployment
+
+<p> <img src="https://skillicons.dev/icons?i=aws,vercel" /> </p>
+
+<p>
+
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+
+</p>
+
+🔧 Tools & DevOps
+
+<p> <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode" /> </p>
+
+<p>
+
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/> <img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white"/>
+
+</p>
+
 
 ### 🔥 Featured Projects
 
-| Project | Description | Tech Stack |
-|---|---|---|
-| **[ProjectHub](https://github.com/ajnsih-max/project-manager)** | Role-based task manager with JWT auth, deployed on Render + Vercel | MERN, JWT, Render, Vercel |
-| **LMS Platform** | Learning management system with three user roles, quiz engine, auto-generated PDF scorecards, and YouTube embedding | React, Node.js, MongoDB, JWT |
-| **Airbnb Clone** | Full-stack listing & booking app with real-time features, Stripe payments, cloud storage, microservices | MERN, Passport.js, Stripe, MongoDB Atlas |
-| **Food Delivery Management System** | Order and delivery tracking system with live status updates and secure auth | MERN, Tailwind CSS, Stripe, AWS |
-| **Real-Time Chat App** | Instant messaging app with automated bot replies and multi-user support | MERN, Socket.IO |
-| **Employee Management System** | CRUD-based management app with Clean Architecture, layered repository pattern, and Swagger-documented REST endpoints | ASP.NET Core Web API, C#, SQL Server, Clean Architecture, Swagger UI |
-| **Company Web Platform** *(ASP OL Media)* | Production company website built and maintained using Clean Architecture patterns, RESTful APIs, and Swagger-documented endpoints | ASP.NET Core Web API, C#, SQL Server, Swagger UI |
+| Project | Highlights | Tech Stack |
+|:---|:---|:---|
+| **[ProjectHub](https://github.com/ajnsih-max/project-manager)** | Full-stack task management platform featuring RBAC, JWT authentication, and interactive Kanban boards. | `MERN`, `JWT`, `Render`, `Vercel` |
+| **Employee Management App** | Reactive Forms CRUD application with persistent storage, dynamic validation, and Clean Architecture pattern. | `Angular`, `Bootstrap`, `TypeScript` |
+| **Company Web Platform** *(ASP OL Media)* | Enterprise-grade production platform implementing layered repository patterns and documented RESTful APIs. | `ASP.NET Core`, `C#`, `SQL Server`, `Swagger` |
+| **Learning Management System (LMS)** | Multi-role LMS platform featuring automated PDF scorecard generation, interactive quiz engines, and video player embedding. | `React`, `Node.js`, `MongoDB`, `Express` |
+| **Full-Stack Airbnb Clone** | Property marketplace with end-to-end booking workflows, cloud image uploads, and Stripe payment gateway integration. | `MERN`, `Stripe`, `MongoDB Atlas` |
+| **Real-Time Messaging Engine** | Low-latency chat application powered by WebSockets with automated bot reply capabilities. | `Node.js`, `Express`, `Socket.IO` |
 
+---
 
 ### 🎓 Education
 
@@ -80,28 +93,96 @@
 
 ---
 
-### 🏅 Certifications & Achievements
+### 🏅 Honors & Certifications
 
-- 🥈 Runner-Up — IIT Bhubaneswar Hackathon
-- ⭐ Shortlisted — Google Student Ambassador Program 2026
-- Big Data Analytics — CDAC (Hadoop, Spark)
-- Cybersecurity Essentials — Cisco
-- Introduction to Industry 4.0 & IIoT — NPTEL (Silver Elite, 85%)
-- Cloud Computing — NPTEL (67%)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ajnsih-max&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajnsih-max&theme=radical" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajnsih-max&layout=compact&theme=radical" height="165" />
-</p>
+- 🥈 **Runner-Up** — IIT Bhubaneswar Hackathon
+- ⭐ **Shortlisted** — Google Student Ambassador Program 2026
+- 📜 **Big Data Analytics** — CDAC *(Hadoop, Apache Spark)*
+- 📜 **Cybersecurity Essentials** — Cisco
+- 📜 **Introduction to Industry 4.0 & IIoT** — NPTEL *(Silver Elite · Top Tier Score)*
+- 📜 **Cloud Computing** — NPTEL
 
 ---
 
-<p align="center"><i>Open to Full Stack Developer / SDE roles — let's connect!</i></p>
+### 📊 GitHub Activity & Stats
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ajnsih-max&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ajnsih-max&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ajnsih-max&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165"/>
+
+</div>
+
+---
+
+### 🧠 What I Work With
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+### 🎨 Frontend
+
+<img src="https://skillicons.dev/icons?i=angular,react,ts,js" />
+
+</td>
+
+<td align="center" width="25%">
+
+### ⚙️ Backend
+
+<img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,cs" />
+
+</td>
+
+<td align="center" width="25%">
+
+### 🗄️ Database
+
+<img src="https://skillicons.dev/icons?i=sqlserver,mongodb,mysql,postgres" />
+
+</td>
+
+<td align="center" width="25%">
+
+### ☁️ Cloud & DevOps
+
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github" />
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Clean%20Architecture-512BD4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JWT%20Authentication-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Repository%20Pattern-7952B3?style=for-the-badge"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<i>💡 "Striving to write clean, scalable code that makes a real-world difference."</i>
+
+<br/><br/>
+
+<b>🚀 Let's build something together!</b>
+
+<br/><br/>
+
+<a href="mailto:ajnishk4@gmail.com">
+<img src="https://img.shields.io/badge/Say%20Hello-Ajnish%20Kumar-blue?style=for-the-badge&logo=minutemailer&logoColor=white"/>
+</a>
+
+</div>
