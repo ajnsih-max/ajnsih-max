@@ -114,6 +114,8 @@
 
 # 🚀 Featured Projects
 
+## 🚀 Featured Projects
+
 <div align="center">
 
 <table>
@@ -121,10 +123,10 @@
 
 <td width="50%" valign="top">
 
-<h3>⚡ iSwift — Scheme Application Workflow System</h3>
+<h3>⚡ iSwift — Scheme Workflow System</h3>
 
 <p>
-A government scheme-disbursement workflow system designed to manage applications, verification and approval processes across administrative levels.
+Government scheme-disbursement workflow system for managing applications, verification and approvals across administrative levels.
 </p>
 
 <p>
@@ -134,12 +136,12 @@ A government scheme-disbursement workflow system designed to manage applications
 </p>
 
 <p>
-🔐 Role-Based Access &nbsp;•&nbsp; 🔄 Application Workflow<br/>
+🔐 Role-Based Access &nbsp;•&nbsp; 🔄 Workflow Management<br/>
 📊 Administrative Modules &nbsp;•&nbsp; 🗄️ EF Core
 </p>
 
 <a href="https://github.com/ajnsih-max">
-<img src="https://img.shields.io/badge/🔗%20View%20Project-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -149,7 +151,7 @@ A government scheme-disbursement workflow system designed to manage applications
 <h3>🔥 ProjectHub</h3>
 
 <p>
-A full-stack project management platform for organizing teams, tasks and project workflows.
+Full-stack project management platform for teams, tasks and workflows with authentication and role-based access control.
 </p>
 
 <p>
@@ -160,11 +162,11 @@ A full-stack project management platform for organizing teams, tasks and project
 
 <p>
 📋 Kanban Boards &nbsp;•&nbsp; 🔐 Authentication<br/>
-👥 Role Management &nbsp;•&nbsp; ☁️ Cloud Deployment
+👥 Role Management &nbsp;•&nbsp; ☁️ Deployment
 </p>
 
 <a href="https://github.com/ajnsih-max/project-manager">
-<img src="https://img.shields.io/badge/🔗%20View%20on%20GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -175,31 +177,10 @@ A full-stack project management platform for organizing teams, tasks and project
 
 <td width="50%" valign="top">
 
-<h3>👨‍💼 Employee Management System</h3>
-
-<p>
-An Angular-based CRUD application for managing employee records with forms, validation and persistent data.
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
-</p>
-
-<p>
-➕ Create &nbsp;•&nbsp; 📖 Read<br/>
-✏️ Update &nbsp;•&nbsp; 🗑️ Delete
-</p>
-
-</td>
-
-<td width="50%" valign="top">
-
 <h3>🏢 Enterprise Web Platform</h3>
 
 <p>
-Enterprise-focused web platform built around scalable backend architecture and documented REST APIs.
+Enterprise-focused web application built around scalable backend architecture, REST APIs and structured data access.
 </p>
 
 <p>
@@ -215,16 +196,12 @@ Enterprise-focused web platform built around scalable backend architecture and d
 
 </td>
 
-</tr>
-
-<tr>
-
 <td width="50%" valign="top">
 
 <h3>🎓 Learning Management System</h3>
 
 <p>
-A multi-role LMS platform featuring quizzes, video learning and automated scorecard generation.
+Multi-role LMS platform featuring quizzes, video learning and automated scorecard generation.
 </p>
 
 <p>
@@ -240,84 +217,17 @@ A multi-role LMS platform featuring quizzes, video learning and automated scorec
 
 </td>
 
-<td width="50%" valign="top">
-
-<h3>🏠 Full-Stack Airbnb Clone</h3>
-
-<p>
-A property marketplace implementing listing, booking and payment workflows.
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/MERN-Stack-47A248?style=flat-square"/>
-<img src="https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB%20Atlas-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-</p>
-
-<p>
-🏡 Property Listings &nbsp;•&nbsp; 📅 Booking<br/>
-☁️ Image Uploads &nbsp;•&nbsp; 💳 Payments
-</p>
-
-</td>
-
 </tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-<h3>💬 Real-Time Messaging Engine</h3>
-
-<p>
-A real-time messaging application using WebSocket communication and automated bot responses.
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
-</p>
-
-<p>
-⚡ Real-Time Events &nbsp;•&nbsp; 💬 Messaging<br/>
-🤖 Automated Bot Replies
-</p>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>🧠 More Projects</h3>
-
-<p>
-Explore my GitHub repositories for additional experiments, learning projects and software development work.
-</p>
-
-<a href="https://github.com/ajnsih-max?tab=repositories">
-<img src="https://img.shields.io/badge/🔗%20View%20All%20Repositories-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</td>
-
-</tr>
-
 </table>
-
-</div>
 
 <br/>
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/6%2B%20Projects-Full%20Stack-512BD4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Frontend-Angular%20%7C%20React-DD0031?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Backend-.NET%20%7C%20Node.js-339933?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Database-SQL%20%7C%20MongoDB%20%7C%20PostgreSQL-4169E1?style=for-the-badge"/>
+<a href="https://github.com/ajnsih-max?tab=repositories">
+<img src="https://img.shields.io/badge/🔗%20View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
----
 
 ## 🎓 Education
 
